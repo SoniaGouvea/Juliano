@@ -10,7 +10,7 @@ public class Ex3Porcentagem {
 
         double saldo;
         double taxaDeReajuste = 1;
-
+//Teste commit
         System.out.println("Digite saldo : ");
         saldo = entrada.nextDouble();
         System.out.println("Saldo é = " + saldo);
